@@ -1,23 +1,24 @@
 #include <iostream>
+#include <vector>
 #include "search.h"
 
-double SearchingAlgorithm::avarageComparisons=0.0;
-SearchingAlgorithm::SearchingAlgorithm(): numberComparisons(0) {}
+int main() {
+    vector<int> data = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21};
 
-void SearchingAlgorithm::displaySearchResults(ostream& os, int result, int target) const{
-    totalSearche++;
+    LinearSearch linearSearch;
+    JumpSearch jumpSearch;
+    BinarySearch binarySearch;
 
-    if (result == -1) {
-        os << "Searching for the element"<< target<< " was not successful";
-    } else {
-        totalComparisons+=numberComparisons;
-        averageComparisons=static_cast<double>(totalComparisons)/totalSearche;
-        os<<"It took a total of" << numberComparisons<<" comparisons";
-    }
-    os << endl << endl;
+    int target = 13;
 
+    int result = linearSearch.search(data, target);
+    linearSearch.displaySearchResults(cout, result, target);
+
+    result = jumpSearch.search(data, target);
+    jumpSearch.displaySearchResults(cout, result, target);
+
+    result = binarySearch.search(data, target);
+    binarySearch.displaySearchResults(cout, result, target);
+
+    return 0;
 }
-
-
-
-

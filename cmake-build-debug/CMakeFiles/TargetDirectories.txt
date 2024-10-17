@@ -1,0 +1,3 @@
+C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug/CMakeFiles/TD_cpp.dir
+C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

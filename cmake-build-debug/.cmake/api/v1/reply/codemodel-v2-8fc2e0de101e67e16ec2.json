@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "td2",
+					"name" : "TD_cpp",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "td2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-td2-Debug-9639d01d9cdc1c50e337.json",
-					"name" : "td2",
+					"id" : "TD_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TD_cpp-Debug-c9b1ebd7cec9b68701f7.json",
+					"name" : "TD_cpp",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/olegp/OneDrive/Documents/2A/C++/td2/cmake-build-debug",
-		"source" : "C:/Users/olegp/OneDrive/Documents/2A/C++/td2"
+		"build" : "C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug",
+		"source" : "C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp"
 	},
 	"version" : 
 	{
