@@ -4,5 +4,5 @@ project(td3)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(td3
-    ex2.cpp
-        ex3.cpp)
+    ex3.cpp
+)

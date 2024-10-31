@@ -49,12 +49,6 @@ cmake_ninja_workdir = C$:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/td3/cmake
 
 build cmake_object_order_depends_target_td3: phony || .
 
-build CMakeFiles/td3.dir/ex2.cpp.obj: CXX_COMPILER__td3_unscanned_Debug C$:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/td3/ex2.cpp || cmake_object_order_depends_target_td3
-  DEP_FILE = CMakeFiles\td3.dir\ex2.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\td3.dir
-  OBJECT_FILE_DIR = CMakeFiles\td3.dir
-
 build CMakeFiles/td3.dir/ex3.cpp.obj: CXX_COMPILER__td3_unscanned_Debug C$:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/td3/ex3.cpp || cmake_object_order_depends_target_td3
   DEP_FILE = CMakeFiles\td3.dir\ex3.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
@@ -69,7 +63,7 @@ build CMakeFiles/td3.dir/ex3.cpp.obj: CXX_COMPILER__td3_unscanned_Debug C$:/User
 #############################################
 # Link the executable td3.exe
 
-build td3.exe: CXX_EXECUTABLE_LINKER__td3_Debug CMakeFiles/td3.dir/ex2.cpp.obj CMakeFiles/td3.dir/ex3.cpp.obj
+build td3.exe: CXX_EXECUTABLE_LINKER__td3_Debug CMakeFiles/td3.dir/ex3.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\td3.dir

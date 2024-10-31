@@ -5,7 +5,7 @@
 #include <iostream>
 #include <queue>
 #include <stack>
-#include <cctype> 
+#include <cctype>
 
 using namespace std;
 
