@@ -1,0 +1,12 @@
+add_executable(tp1
+    main.cpp
+    card.h
+    PokemonCard.h
+    EnergyCard.h
+    TrainerCard.h
+    Player.h
+    EnergyCard.cpp
+    PokemonCard.cpp
+    TrainerCard.cpp
+    Player.cpp
+)

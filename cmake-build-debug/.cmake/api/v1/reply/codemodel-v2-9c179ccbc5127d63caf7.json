@@ -1,0 +1,176 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "td1/ex1",
+					"jsonFile" : "directory-td1.ex1-Debug-db7c62d4e2598fb121bd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "td1/ex1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "td1/ex2",
+					"jsonFile" : "directory-td1.ex2-Debug-9cc540dec85d4882aa61.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "td1/ex2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "td2",
+					"jsonFile" : "directory-td2-Debug-aba4b4a3ea1d8de8ac24.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "td2",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "td3",
+					"jsonFile" : "directory-td3-Debug-57d62c453ff0f1087e95.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "td3",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "tp1",
+					"jsonFile" : "directory-tp1-Debug-2139458681e235f1c8d0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tp1",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"name" : "TD_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "td1_ex1::@1e9054aebe7d26194442",
+					"jsonFile" : "target-td1_ex1-Debug-50bd9e91e2bf6e6edc0b.json",
+					"name" : "td1_ex1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "td1_ex2::@0e26d2af6b3aef5bc5c3",
+					"jsonFile" : "target-td1_ex2-Debug-e2daae7d2668ac993abb.json",
+					"name" : "td1_ex2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "td2::@52d247896b5fe2ceb4b1",
+					"jsonFile" : "target-td2-Debug-1f8dab564e3736969428.json",
+					"name" : "td2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "td3::@d86c7cee513b5c7b6f9b",
+					"jsonFile" : "target-td3-Debug-c2147d0d66e2e11ad048.json",
+					"name" : "td3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "tp1::@307b34d9974c05ad3713",
+					"jsonFile" : "target-tp1-Debug-385750d88b815f890322.json",
+					"name" : "tp1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug",
+		"source" : "C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
