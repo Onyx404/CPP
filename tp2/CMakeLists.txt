@@ -1,6 +1,15 @@
 add_executable(tp2
-        main.cpp
+        gau.h
+        gau.cpp
+        stp.h
+        stp.cpp
+        sin.h
+        sin.cpp
+        tsdata.h
+        tsdata.cpp
         tsgen.h
         tsgen.cpp
-
+        knn.h
+        knn.cpp
+        main.cpp
 )

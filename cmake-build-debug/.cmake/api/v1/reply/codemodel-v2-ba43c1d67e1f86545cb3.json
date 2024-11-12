@@ -12,7 +12,8 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -96,6 +97,21 @@
 					[
 						4
 					]
+				},
+				{
+					"build" : "tp2",
+					"jsonFile" : "directory-tp2-Debug-a71972a1b0571dcd75a9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tp2",
+					"targetIndexes" : 
+					[
+						5
+					]
 				}
 			],
 			"name" : "Debug",
@@ -109,7 +125,8 @@
 						2,
 						3,
 						4,
-						5
+						5,
+						6
 					],
 					"name" : "TD_cpp",
 					"targetIndexes" : 
@@ -118,7 +135,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					]
 				}
 			],
@@ -157,6 +175,13 @@
 					"id" : "tp1::@307b34d9974c05ad3713",
 					"jsonFile" : "target-tp1-Debug-385750d88b815f890322.json",
 					"name" : "tp1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "tp2::@fa31ddf026b86c74dedb",
+					"jsonFile" : "target-tp2-Debug-27470fb12dcac2c15a23.json",
+					"name" : "tp2",
 					"projectIndex" : 0
 				}
 			]

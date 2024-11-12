@@ -4,23 +4,19 @@
 
 #ifndef TSGEN_H
 #define TSGEN_H
+
 #include <vector>
-#include <iostream>
 using namespace std;
 
 class TimeSeriesGenerator {
-protected:
+public:
     int seed;
 
-public:
-    // Constructeurs
-    TimeSeriesGenerator();
-    TimeSeriesGenerator(int s);
+    TimeSeriesGenerator() : seed(0) {}
+    TimeSeriesGenerator(int s) : seed(s) {}
 
-    // Méthodes virtuelles
     virtual vector<double> generateTimeSeries(int size) = 0;
-
-    // Méthode statique pour imprimer la série temporelle
     static void printTimeSeries(const vector<double>& series);
 };
+
 #endif //TSGEN_H

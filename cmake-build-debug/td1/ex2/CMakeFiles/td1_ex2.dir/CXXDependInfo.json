@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug/td1/ex2",
+	"dir-cur-src" : "C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/td1/ex2",
+	"dir-top-bld" : "C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug",
+	"dir-top-src" : "C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug/td1/ex2/CMakeFiles/td1_ex2.dir"
+}

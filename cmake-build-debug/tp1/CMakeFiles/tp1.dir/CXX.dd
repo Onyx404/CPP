@@ -1,0 +1,11 @@
+ninja_dyndep_version = 1.0
+build tp1/CMakeFiles/tp1.dir/main.cpp.obj: dyndep
+
+build tp1/CMakeFiles/tp1.dir/EnergyCard.cpp.obj: dyndep
+
+build tp1/CMakeFiles/tp1.dir/PokemonCard.cpp.obj: dyndep
+
+build tp1/CMakeFiles/tp1.dir/TrainerCard.cpp.obj: dyndep
+
+build tp1/CMakeFiles/tp1.dir/Player.cpp.obj: dyndep
+

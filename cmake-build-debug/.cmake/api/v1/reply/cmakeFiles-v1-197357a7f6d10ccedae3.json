@@ -164,6 +164,9 @@
 		},
 		{
 			"path" : "tp1/CMakeLists.txt"
+		},
+		{
+			"path" : "tp2/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

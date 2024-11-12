@@ -1,15 +1,13 @@
 //
 // Created by olegp on 12/11/2024.
 //
-
 #include "tsgen.h"
-
-TimeSeriesGenerator::TimeSeriesGenerator() : seed(0) {}
-TimeSeriesGenerator::TimeSeriesGenerator(int s) : seed(s) {}
+#include <iostream>
+using namespace std;
 
 void TimeSeriesGenerator::printTimeSeries(const vector<double>& series) {
-    for (double val : series) {
-        cout << val << " ";
+    for (const double& value : series) {
+        cout << value << " ";
     }
     cout << endl;
 }

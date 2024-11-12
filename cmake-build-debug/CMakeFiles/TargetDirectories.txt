@@ -15,3 +15,6 @@ C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug/td3/CMakeFiles
 C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug/tp1/CMakeFiles/tp1.dir
 C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug/tp1/CMakeFiles/edit_cache.dir
 C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug/tp1/CMakeFiles/rebuild_cache.dir
+C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug/tp2/CMakeFiles/tp2.dir
+C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug/tp2/CMakeFiles/edit_cache.dir
+C:/Users/olegp/OneDrive/Documents/2A/C++/TD_cpp/cmake-build-debug/tp2/CMakeFiles/rebuild_cache.dir
